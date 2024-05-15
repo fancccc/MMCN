@@ -6,4 +6,4 @@
 ## 框架图
 下图展示了项目的整体框架结构：
 
-![框架图](images/framework.png)
+![框架图](images/framework.pdf)
