@@ -1,0 +1,9 @@
+path: /home/zcd/datasets/DENTEX/training_data/quadrant # dataset root dir
+train: train/images # train images (relative to 'path')
+val: val/images # val images (relative to 'path')
+# test: validation_data/quadrant/xrays # test images (optional) https://eval.ai/web/challenges/challenge-page/800/overview
+names:
+  0: 1
+  1: 2
+  2: 3
+  3: 4
